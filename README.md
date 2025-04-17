@@ -27,7 +27,7 @@
 
 ### **1. Clone o repositório**  
 ```bash
-git clone https://github.com/seu-usuario/assistente-gemini.git
+git clone https://github.com/Jao-ev/Assistente.git
 cd assistente-gemini
 ```
 
